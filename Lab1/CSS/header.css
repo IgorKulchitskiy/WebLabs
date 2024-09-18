@@ -59,7 +59,9 @@ header .login {
 
 header .register {
     all: unset;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border-radius: 8px;
     background: #FB8F1D;
     width: 132px;
